@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260da413-95ca-4992-8bb9-fedef8fd93bb" name="Default Changelist" comment="" />
+    <list default="true" id="260da413-95ca-4992-8bb9-fedef8fd93bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cQaQ3mH2IkngBjLB1F9PX5hm9J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -70,13 +73,29 @@
       <option name="presentableId" value="Default" />
       <updated>1590463251814</updated>
     </task>
+    <task id="LOCAL-00001" summary="create home work java ee lessons">
+      <created>1590465139679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590465139679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create home work java ee lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="create home work java ee lessons" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590464126742">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590464126742" />
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1590465136294">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590465136294" />
     <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1590464078161">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
