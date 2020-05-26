@@ -1,0 +1,6 @@
+08:36:26,887 INFO  [org.jboss.as.repository] (management-handler-thread - 1) WFLYDR0001: Content added at location C:\wild\wildfly_19_1_0\standalone\data\content\8d\47132984e26d5c01c926b1e63097826f34b322\content
+08:36:27,281 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0027: Starting deployment of "first-ee-app.war" (runtime-name: "first-ee-app.war")
+08:36:33,581 INFO  [org.infinispan.factories.GlobalComponentRegistry] (MSC service thread 1-3) ISPN000128: Infinispan version: Infinispan 'Infinity Minus ONE +2' 9.4.18.Final
+08:36:35,629 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 32) WFLYCLINF0002: Started client-mappings cache from ejb container
+08:36:36,513 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 81) WFLYUT0021: Registered web context: '/first-ee-app' for server 'default-server'
+08:36:36,839 INFO  [org.jboss.as.server] (management-handler-thread - 1) WFLYSRV0010: Deployed "first-ee-app.war" (runtime-name : "first-ee-app.war")
