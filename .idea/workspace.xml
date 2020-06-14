@@ -2,13 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="260da413-95ca-4992-8bb9-fedef8fd93bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/filter/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/filter/FooterFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/FirstHttpServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/HeaderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CatalogServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ErrorHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/LinksServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/MainPageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/OrderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ProductServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-ee-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/target/first-ee-app.war" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/target/first-ee-app.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/target/first-ee-app/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/target/first-ee-app/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/target/first-ee-app/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/target/first-ee-app/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,8 +64,9 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.first-ee-app [clean,install...]">
     <configuration name="first-ee-app [clean,install...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -66,6 +94,23 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="Wildfly" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8787" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8787" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.first-ee-app [clean,install...]" />
+      <item itemvalue="Remote.Wildfly" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -94,10 +139,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="create home work java ee lessons" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590464126742">
+    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592028253497">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590464126742" />
+    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028253497" />
+    <state x="2052" y="111" key="#com.intellij.ide.util.MemberChooser" timestamp="1592143752728">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592026584308" />
+    <state x="2052" y="111" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592143752728" />
+    <state x="2081" y="76" width="724" height="865" key="#xdebugger.evaluate" timestamp="1592145095435">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2081" y="76" width="724" height="865" key="#xdebugger.evaluate/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145095435" />
     <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1590465136294">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -106,26 +160,50 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590464078161" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1590465714947">
+    <state width="1892" height="314" key="GridCell.Tab.0.bottom" timestamp="1592145457906">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028281479" />
+    <state width="1892" height="314" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145457906" />
+    <state width="1892" height="314" key="GridCell.Tab.0.center" timestamp="1592145457906">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028281479" />
+    <state width="1892" height="314" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145457906" />
+    <state width="1892" height="314" key="GridCell.Tab.0.left" timestamp="1592145457905">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028281479" />
+    <state width="1892" height="314" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145457905" />
+    <state width="1892" height="314" key="GridCell.Tab.0.right" timestamp="1592145457906">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028281479" />
+    <state width="1892" height="314" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145457906" />
+    <state width="1892" height="229" key="GridCell.Tab.1.bottom" timestamp="1592145322774">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028293097" />
+    <state width="1892" height="229" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145322774" />
+    <state width="1892" height="229" key="GridCell.Tab.1.center" timestamp="1592145322773">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028293097" />
+    <state width="1892" height="229" key="GridCell.Tab.1.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145322773" />
+    <state width="1892" height="229" key="GridCell.Tab.1.left" timestamp="1592145322772">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028293096" />
+    <state width="1892" height="229" key="GridCell.Tab.1.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145322772" />
+    <state width="1892" height="229" key="GridCell.Tab.1.right" timestamp="1592145322773">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028293097" />
+    <state width="1892" height="229" key="GridCell.Tab.1.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145322773" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1592026080017">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590465714947" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1590465714947">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590465714947" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1590465714946">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590465714946" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1590465714947">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590465714947" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1590464042036">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590464042036" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592026080017" />
     <state x="65" y="73" key="new project wizard" timestamp="1590463447370">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

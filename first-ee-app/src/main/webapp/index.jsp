@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World JavaEE!</h2>
+<h2>Hello World JavaEE(index.jsp)!</h2>
 </body>
 </html>
