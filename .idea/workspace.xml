@@ -2,28 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="260da413-95ca-4992-8bb9-fedef8fd93bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/filter/EncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/filter/FooterFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/FirstHttpServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/FirstServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/HeaderServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CartServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CatalogServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ErrorHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/LinksServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/MainPageServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/OrderServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ProductServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/filter/EncodingFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CartServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CatalogServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ErrorHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/LinksServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/MainPageServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/OrderServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ProductServlet.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/target/first-ee-app.war" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/target/first-ee-app.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/target/first-ee-app/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/target/first-ee-app/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/target/first-ee-app/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/target/first-ee-app/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +47,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/first-ee-app" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/geek-java-ee-lessons-20" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -156,10 +143,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="260" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590465136294" />
-    <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1590464078161">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="2017" y="181" key="FileChooserDialogImpl" timestamp="1592146805134">
+      <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590464078161" />
+    <state x="2017" y="181" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592146805134" />
     <state width="1892" height="314" key="GridCell.Tab.0.bottom" timestamp="1592145457906">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>

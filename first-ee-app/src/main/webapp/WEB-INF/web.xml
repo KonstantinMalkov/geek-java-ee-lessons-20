@@ -16,30 +16,4 @@ http://xmlns.jcp.org/xml/ns/javaee "
     <url-pattern>/first_servlet</url-pattern>
   </servlet-mapping>
 
-  <servlet>
-    <servlet-name>ErrorHandler</servlet-name>
-    <servlet-class>ru.geekbrains.servlet.homework_2.ErrorHandler</servlet-class>
-  </servlet>
-
-  <!-- servlet mappings -->
-  <servlet-mapping>
-    <servlet-name>ErrorHandler</servlet-name>
-    <url-pattern>/ErrorHandler</url-pattern>
-  </servlet-mapping>
-
-  <error-page>
-    <error-code>403</error-code>
-    <location>/ErrorHandler</location>
-  </error-page>
-
-  <error-page>
-    <error-code>404</error-code>
-    <location>/ErrorHandler</location>
-  </error-page>
-
-  <error-page>
-    <exception-type>java.lang.Throwable</exception-type>
-    <location>/ErrorHandler</location>
-  </error-page>
-
 </web-app>
