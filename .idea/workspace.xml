@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260da413-95ca-4992-8bb9-fedef8fd93bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/filter/EncodingFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CartServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CatalogServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ErrorHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/LinksServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/MainPageServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/OrderServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ProductServlet.java" beforeDir="false" />
+    <list default="true" id="260da413-95ca-4992-8bb9-fedef8fd93bb" name="Default Changelist" comment="add second home work in branch">
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/filter/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CatalogServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/Error403.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/Error404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/LinksServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/MainPageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/OrderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-ee-app/target/first-ee-app.war" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/target/first-ee-app.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +50,19 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/geek-java-ee-lessons-20" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.geekbrains.filter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kasatin\Documents\JavaProjects\geek-java-ee-lessons-20\first-ee-app\src\main\java\ru\geekbrains\servlet" />
+    </key>
   </component>
   <component name="RunManager" selected="Maven.first-ee-app [clean,install...]">
     <configuration name="first-ee-app [clean,install...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
@@ -123,7 +134,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="create home work java ee lessons" />
-    <option name="LAST_COMMIT_MESSAGE" value="create home work java ee lessons" />
+    <MESSAGE value="add in branch master second home work" />
+    <MESSAGE value="add second home work in branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="add second home work in branch" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592028253497">
@@ -139,15 +152,17 @@
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state x="2081" y="76" width="724" height="865" key="#xdebugger.evaluate/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592145095435" />
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1590465136294">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="292" y="79" width="861" height="659" key="CommitChangelistDialog2" timestamp="1592239386600">
+      <screen x="0" y="0" width="1536" height="738" />
     </state>
     <state x="260" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590465136294" />
-    <state x="2017" y="181" key="FileChooserDialogImpl" timestamp="1592146805134">
-      <screen x="1366" y="0" width="1920" height="1050" />
+    <state x="292" y="79" width="861" height="659" key="CommitChangelistDialog2/0.0.1536.738@0.0.1536.738" timestamp="1592239386600" />
+    <state x="521" y="127" key="FileChooserDialogImpl" timestamp="1592238864038">
+      <screen x="0" y="0" width="1536" height="738" />
     </state>
     <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590464078161" />
     <state x="2017" y="181" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592146805134" />
+    <state x="521" y="127" key="FileChooserDialogImpl/0.0.1536.738@0.0.1536.738" timestamp="1592238864038" />
     <state width="1892" height="314" key="GridCell.Tab.0.bottom" timestamp="1592145457906">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
