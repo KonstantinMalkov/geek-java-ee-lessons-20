@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260da413-95ca-4992-8bb9-fedef8fd93bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/filter/EncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CartServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/CatalogServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/Error403.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/Error404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/LinksServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/MainPageServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/OrderServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet/homework_2/ProductServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-ee-app/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-ee-app/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-    </list>
+    <list default="true" id="260da413-95ca-4992-8bb9-fedef8fd93bb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +37,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/first-ee-app/src/main/java/ru/geekbrains/servlet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -169,26 +156,26 @@
     </state>
     <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1590464078161" />
     <state x="2017" y="181" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592146805134" />
-    <state width="1892" height="229" key="GridCell.Tab.0.bottom" timestamp="1592155613074">
+    <state width="1877" height="263" key="GridCell.Tab.0.bottom" timestamp="1592196990930">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028281479" />
-    <state width="1892" height="229" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592155613074" />
-    <state width="1892" height="229" key="GridCell.Tab.0.center" timestamp="1592155613073">
+    <state width="1877" height="263" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592196990930" />
+    <state width="1877" height="263" key="GridCell.Tab.0.center" timestamp="1592196990930">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028281479" />
-    <state width="1892" height="229" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592155613073" />
-    <state width="1892" height="229" key="GridCell.Tab.0.left" timestamp="1592155613072">
+    <state width="1877" height="263" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592196990930" />
+    <state width="1877" height="263" key="GridCell.Tab.0.left" timestamp="1592196990930">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028281479" />
-    <state width="1892" height="229" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592155613072" />
-    <state width="1892" height="229" key="GridCell.Tab.0.right" timestamp="1592155613074">
+    <state width="1877" height="263" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592196990930" />
+    <state width="1877" height="263" key="GridCell.Tab.0.right" timestamp="1592196990930">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1592028281479" />
-    <state width="1892" height="229" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592155613074" />
+    <state width="1877" height="263" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1592196990930" />
     <state width="1892" height="229" key="GridCell.Tab.1.bottom" timestamp="1592155613075">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
