@@ -16,4 +16,14 @@ http://xmlns.jcp.org/xml/ns/javaee "
     <url-pattern>/first_servlet</url-pattern>
   </servlet-mapping>
 
+  <error-page>
+    <error-code>403</error-code>
+    <location>/Error403</location>
+  </error-page>
+
+  <error-page>
+    <error-code>404</error-code>
+    <location>/Error404</location>
+  </error-page>
+
 </web-app>
